@@ -3,3 +3,5 @@
 *MNIST*
 *.nlp
 *.model
+*.vec
+*.txt
